@@ -1,0 +1,7 @@
+int main(){
+    double a;
+    double c;
+    add(a+b);
+    mull(a*b);
+    return 0;  
+}
